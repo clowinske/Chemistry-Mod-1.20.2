@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chemistrymod:block/lab_table"
+    }
+  }
+}

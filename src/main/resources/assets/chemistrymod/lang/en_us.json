@@ -1,0 +1,15 @@
+{
+  "item.chemistrymod.small_beaker": "Small Beaker",
+  "item.chemistrymod.medium_beaker": "Medium Beaker",
+  "item.chemistrymod.large_beaker": "Large Beaker",
+  "item.chemistrymod.small_erlenmeyer_flask": "Small Erlenmeyer Flask",
+  "item.chemistrymod.medium_erlenmeyer_flask": "Medium Erlenmeyer Flask",
+  "item.chemistrymod.large_erlenmeyer_flask": "Large Erlenmeyer Flask",
+  "item.chemistrymod.sulphur_powder": "Sulphur Powder",
+
+  "block.chemistrymod.lab_table": "Lab Table",
+
+  "creativetab.glassware_tab": "Chemistry Glassware",
+  "creativetab.chemistryblocks_tab": "Chemistry Blocks"
+
+}

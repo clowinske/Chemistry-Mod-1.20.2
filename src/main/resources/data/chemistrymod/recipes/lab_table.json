@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###",
+        "@&@",
+        "@ @"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:polished_blackstone"
+        },
+        "@": {
+            "item": "minecraft:oak_planks"
+        },
+        "&": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "chemistrymod:lab_table",
+        "count": 1
+    }
+}
